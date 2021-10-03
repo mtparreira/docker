@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+
+  anaconda:
+    image: "continuumio/anaconda3"
+    container_name: "devops_anaconda"
+    labels:
+      description: Python Jupyter Numpy Pandas
+    ports:
+      - 8888:8888
+    volumes:
+      - /root/docker/anaconda:/home
+    networks: 
+      - devops_rede
+    command: /bin/bash -c "jupyter notebook --notebook-dir=/home --ip='*' --port=8888 --allow-root --no-browser"
+
+  mongo:
+    image: mongo
+    container_name: "devops_mongo"
+    restart: always
+    labels:
+      description: MongoDB
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: usrtcc
+      MONGO_INITDB_DATABASE: tcc
+    ports:
+      - 27017:27017
+    volumes:
+      - /root/docker/mongo/db:/data/db
+      - /root/docker/mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+      - /root/docker/anaconda/python/coleta:/home/coleta
+    networks:
+      - devops_rede
+
+networks: 
+  devops_rede:
+      driver: bridge
