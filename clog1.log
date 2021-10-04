@@ -6350,3 +6350,47 @@
 + sh /root/docker/carga.sh
 2021-10-03T22:20:55.437+0000	connected to: mongodb://localhost:27017/
 2021-10-03T22:20:55.629+0000	6121 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 22:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T01:00:55.167+0000	connected to: mongodb://localhost:27017/
+2021-10-04T01:00:55.384+0000	6371 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 22:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T01:10:52.808+0000	connected to: mongodb://localhost:27017/
+2021-10-04T01:10:53.023+0000	6414 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 22:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T01:20:51.445+0000	connected to: mongodb://localhost:27017/
+2021-10-04T01:20:51.763+0000	6469 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 22:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Sun Oct  3 22:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T01:40:51.236+0000	connected to: mongodb://localhost:27017/
+2021-10-04T01:40:51.463+0000	6559 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 22:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Sun Oct  3 23:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T02:00:55.122+0000	connected to: mongodb://localhost:27017/
+2021-10-04T02:00:55.275+0000	4356 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct  3 23:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-04T02:10:48.814+0000	connected to: mongodb://localhost:27017/
+2021-10-04T02:10:49.020+0000	6635 document(s) imported successfully. 0 document(s) failed to import.
