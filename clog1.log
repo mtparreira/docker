@@ -12912,3 +12912,1683 @@
 + sh /root/docker/carga.sh
 2021-10-12T13:00:53.868+0000	connected to: mongodb://localhost:27017/
 2021-10-12T13:00:54.198+0000	4482 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 10:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T13:10:52.469+0000	connected to: mongodb://localhost:27017/
+2021-10-12T13:10:52.607+0000	3885 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 10:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T13:20:55.778+0000	connected to: mongodb://localhost:27017/
+2021-10-12T13:20:55.909+0000	3941 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 10:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 10:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T13:41:08.568+0000	connected to: mongodb://localhost:27017/
+2021-10-12T13:41:08.715+0000	4110 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 10:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 11:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T14:01:06.889+0000	connected to: mongodb://localhost:27017/
+2021-10-12T14:01:07.036+0000	4040 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 11:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T14:11:03.576+0000	connected to: mongodb://localhost:27017/
+2021-10-12T14:11:03.753+0000	3769 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 11:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T14:21:00.954+0000	connected to: mongodb://localhost:27017/
+2021-10-12T14:21:01.093+0000	3873 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 11:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 11:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T14:41:04.126+0000	connected to: mongodb://localhost:27017/
+2021-10-12T14:41:04.240+0000	3239 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 11:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 12:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T15:01:14.985+0000	connected to: mongodb://localhost:27017/
+2021-10-12T15:01:15.102+0000	3266 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 12:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T15:10:55.317+0000	connected to: mongodb://localhost:27017/
+2021-10-12T15:10:55.471+0000	3335 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 12:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T15:20:55.177+0000	connected to: mongodb://localhost:27017/
+2021-10-12T15:20:55.382+0000	4379 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 12:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 12:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T15:40:53.961+0000	connected to: mongodb://localhost:27017/
+2021-10-12T15:40:54.137+0000	4501 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 12:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 13:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T16:00:56.899+0000	connected to: mongodb://localhost:27017/
+2021-10-12T16:00:57.053+0000	4414 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 13:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T16:10:57.701+0000	connected to: mongodb://localhost:27017/
+2021-10-12T16:10:57.883+0000	4258 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 13:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T16:21:02.927+0000	connected to: mongodb://localhost:27017/
+2021-10-12T16:21:03.080+0000	4643 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 13:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 13:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T16:40:59.117+0000	connected to: mongodb://localhost:27017/
+2021-10-12T16:40:59.241+0000	3955 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 13:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 14:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T17:00:57.039+0000	connected to: mongodb://localhost:27017/
+2021-10-12T17:00:57.196+0000	4399 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 14:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T17:10:53.878+0000	connected to: mongodb://localhost:27017/
+2021-10-12T17:10:54.009+0000	4174 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 14:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T17:20:58.062+0000	connected to: mongodb://localhost:27017/
+2021-10-12T17:20:58.193+0000	Failed: error reading separator after document #3981: bad JSON array format - found '"' after ']' in input source
+2021-10-12T17:20:58.193+0000	3000 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 14:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 14:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T17:41:00.338+0000	connected to: mongodb://localhost:27017/
+2021-10-12T17:41:00.471+0000	3925 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 14:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 15:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T18:01:03.183+0000	connected to: mongodb://localhost:27017/
+2021-10-12T18:01:03.390+0000	3937 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 15:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T18:11:01.485+0000	connected to: mongodb://localhost:27017/
+2021-10-12T18:11:01.629+0000	3991 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 15:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T18:21:07.934+0000	connected to: mongodb://localhost:27017/
+2021-10-12T18:21:08.213+0000	4194 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 15:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 15:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T18:41:08.710+0000	connected to: mongodb://localhost:27017/
+2021-10-12T18:41:08.863+0000	4093 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 15:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 16:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T19:01:17.864+0000	connected to: mongodb://localhost:27017/
+2021-10-12T19:01:18.024+0000	4315 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 16:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T19:11:07.836+0000	connected to: mongodb://localhost:27017/
+2021-10-12T19:11:08.022+0000	4412 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 16:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T19:21:06.790+0000	connected to: mongodb://localhost:27017/
+2021-10-12T19:21:07.025+0000	4557 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 16:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 16:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T19:41:05.253+0000	connected to: mongodb://localhost:27017/
+2021-10-12T19:41:05.418+0000	4793 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 16:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 17:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T20:01:02.497+0000	connected to: mongodb://localhost:27017/
+2021-10-12T20:01:02.686+0000	4952 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 17:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T20:11:02.768+0000	connected to: mongodb://localhost:27017/
+2021-10-12T20:11:02.978+0000	5062 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 17:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T20:20:59.487+0000	connected to: mongodb://localhost:27017/
+2021-10-12T20:20:59.670+0000	5119 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 17:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 17:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T20:41:04.294+0000	connected to: mongodb://localhost:27017/
+2021-10-12T20:41:04.480+0000	5133 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 17:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 18:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T21:01:00.408+0000	connected to: mongodb://localhost:27017/
+2021-10-12T21:01:00.681+0000	5216 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 18:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T21:10:58.989+0000	connected to: mongodb://localhost:27017/
+2021-10-12T21:10:59.186+0000	5292 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 18:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T21:20:55.618+0000	connected to: mongodb://localhost:27017/
+2021-10-12T21:20:55.815+0000	4579 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 18:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 18:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T21:41:01.747+0000	connected to: mongodb://localhost:27017/
+2021-10-12T21:41:01.952+0000	4824 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 18:50:02 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 19:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T22:00:56.765+0000	connected to: mongodb://localhost:27017/
+2021-10-12T22:00:56.942+0000	Failed: error reading separator after document #5008: bad JSON array format - found 'l' after ']' in input source
+2021-10-12T22:00:56.942+0000	4000 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 19:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T22:10:59.602+0000	connected to: mongodb://localhost:27017/
+2021-10-12T22:10:59.779+0000	5168 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 19:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T22:20:55.743+0000	connected to: mongodb://localhost:27017/
+2021-10-12T22:20:55.920+0000	5122 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 19:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 19:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T22:40:56.534+0000	connected to: mongodb://localhost:27017/
+2021-10-12T22:40:56.742+0000	5169 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 19:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 20:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T23:00:57.289+0000	connected to: mongodb://localhost:27017/
+2021-10-12T23:00:57.515+0000	5258 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 20:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T23:10:56.829+0000	connected to: mongodb://localhost:27017/
+2021-10-12T23:10:57.017+0000	5329 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 20:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T23:20:57.083+0000	connected to: mongodb://localhost:27017/
+2021-10-12T23:20:57.308+0000	5361 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 20:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 20:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-12T23:41:02.409+0000	connected to: mongodb://localhost:27017/
+2021-10-12T23:41:02.601+0000	5408 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 20:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 21:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T00:00:59.594+0000	connected to: mongodb://localhost:27017/
+2021-10-13T00:00:59.808+0000	5395 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 21:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T00:10:59.833+0000	connected to: mongodb://localhost:27017/
+2021-10-13T00:11:00.014+0000	5457 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 21:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T00:21:00.390+0000	connected to: mongodb://localhost:27017/
+2021-10-13T00:21:00.595+0000	5416 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 21:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 21:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T00:40:57.947+0000	connected to: mongodb://localhost:27017/
+2021-10-13T00:40:58.182+0000	5507 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 21:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 22:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T01:00:57.930+0000	connected to: mongodb://localhost:27017/
+2021-10-13T01:00:58.181+0000	5371 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 22:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T01:11:03.628+0000	connected to: mongodb://localhost:27017/
+2021-10-13T01:11:03.857+0000	5370 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 22:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T01:21:02.575+0000	connected to: mongodb://localhost:27017/
+2021-10-13T01:21:02.786+0000	5155 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 22:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 22:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T01:40:58.522+0000	connected to: mongodb://localhost:27017/
+2021-10-13T01:40:58.743+0000	5173 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 22:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 23:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T02:00:57.316+0000	connected to: mongodb://localhost:27017/
+2021-10-13T02:00:57.511+0000	Failed: error reading separator after document #5171: bad JSON array format - found 'a' after ']' in input source
+2021-10-13T02:00:57.511+0000	5000 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 23:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T02:10:53.221+0000	connected to: mongodb://localhost:27017/
+2021-10-13T02:10:53.414+0000	5312 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 23:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T02:20:53.521+0000	connected to: mongodb://localhost:27017/
+2021-10-13T02:20:53.729+0000	5288 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 23:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Tue Oct 12 23:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T02:41:01.655+0000	connected to: mongodb://localhost:27017/
+2021-10-13T02:41:01.859+0000	5427 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Tue Oct 12 23:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 00:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T03:00:57.372+0000	connected to: mongodb://localhost:27017/
+2021-10-13T03:00:57.599+0000	5433 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 00:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T03:11:00.179+0000	connected to: mongodb://localhost:27017/
+2021-10-13T03:11:00.395+0000	5076 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 00:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T03:20:54.235+0000	connected to: mongodb://localhost:27017/
+2021-10-13T03:20:54.430+0000	5064 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 00:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 00:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T03:40:33.494+0000	connected to: mongodb://localhost:27017/
+2021-10-13T03:40:33.531+0000	494 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 00:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 01:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T04:01:14.872+0000	connected to: mongodb://localhost:27017/
+2021-10-13T04:01:15.070+0000	5037 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 01:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T04:11:09.305+0000	connected to: mongodb://localhost:27017/
+2021-10-13T04:11:09.480+0000	5107 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 01:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T04:21:08.112+0000	connected to: mongodb://localhost:27017/
+2021-10-13T04:21:08.460+0000	5052 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 01:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 01:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T04:40:58.969+0000	connected to: mongodb://localhost:27017/
+2021-10-13T04:40:59.160+0000	5242 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 01:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 02:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T05:00:52.018+0000	connected to: mongodb://localhost:27017/
+2021-10-13T05:00:52.206+0000	5263 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 02:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T05:10:52.741+0000	connected to: mongodb://localhost:27017/
+2021-10-13T05:10:52.914+0000	5188 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 02:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T05:20:52.151+0000	connected to: mongodb://localhost:27017/
+2021-10-13T05:20:52.330+0000	5274 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 02:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 02:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T05:40:51.508+0000	connected to: mongodb://localhost:27017/
+2021-10-13T05:40:51.704+0000	5313 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 02:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 03:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T06:00:54.298+0000	connected to: mongodb://localhost:27017/
+2021-10-13T06:00:54.521+0000	5339 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 03:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T06:10:52.654+0000	connected to: mongodb://localhost:27017/
+2021-10-13T06:10:52.829+0000	Failed: error reading separator after document #5921: bad JSON array format - found '{' after ']' in input source
+2021-10-13T06:10:52.829+0000	5000 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 03:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T06:20:52.390+0000	connected to: mongodb://localhost:27017/
+2021-10-13T06:20:52.573+0000	5406 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 03:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 03:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T06:40:51.582+0000	connected to: mongodb://localhost:27017/
+2021-10-13T06:40:51.764+0000	5163 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 03:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 04:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T07:00:51.518+0000	connected to: mongodb://localhost:27017/
+2021-10-13T07:00:51.690+0000	5094 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 04:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T07:10:54.745+0000	connected to: mongodb://localhost:27017/
+2021-10-13T07:10:54.943+0000	5091 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 04:20:02 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T07:20:54.573+0000	connected to: mongodb://localhost:27017/
+2021-10-13T07:20:54.771+0000	4966 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 04:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 04:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T07:40:54.930+0000	connected to: mongodb://localhost:27017/
+2021-10-13T07:40:55.107+0000	5049 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 04:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 05:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T08:00:53.303+0000	connected to: mongodb://localhost:27017/
+2021-10-13T08:00:53.476+0000	5075 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 05:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T08:10:54.441+0000	connected to: mongodb://localhost:27017/
+2021-10-13T08:10:54.608+0000	5056 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 05:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T08:20:54.913+0000	connected to: mongodb://localhost:27017/
+2021-10-13T08:20:55.069+0000	5079 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 05:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 05:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T08:40:55.650+0000	connected to: mongodb://localhost:27017/
+2021-10-13T08:40:55.838+0000	5058 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 05:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 06:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T09:00:50.553+0000	connected to: mongodb://localhost:27017/
+2021-10-13T09:00:50.730+0000	4929 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 06:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T09:10:49.305+0000	connected to: mongodb://localhost:27017/
+2021-10-13T09:10:49.459+0000	4756 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 06:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T09:20:50.490+0000	connected to: mongodb://localhost:27017/
+2021-10-13T09:20:50.671+0000	4768 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 06:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 06:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T09:40:52.891+0000	connected to: mongodb://localhost:27017/
+2021-10-13T09:40:53.077+0000	4800 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 06:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 07:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T10:00:53.622+0000	connected to: mongodb://localhost:27017/
+2021-10-13T10:00:53.784+0000	4557 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 07:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T10:10:54.977+0000	connected to: mongodb://localhost:27017/
+2021-10-13T10:10:55.132+0000	4564 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 07:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T10:20:51.822+0000	connected to: mongodb://localhost:27017/
+2021-10-13T10:20:51.981+0000	4608 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 07:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 07:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T10:40:53.314+0000	connected to: mongodb://localhost:27017/
+2021-10-13T10:40:53.500+0000	4657 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 07:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 08:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T11:00:55.230+0000	connected to: mongodb://localhost:27017/
+2021-10-13T11:00:55.385+0000	Failed: error reading separator after document #4701: bad JSON array format - found '2' after ']' in input source
+2021-10-13T11:00:55.385+0000	4000 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 08:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T11:10:55.259+0000	connected to: mongodb://localhost:27017/
+2021-10-13T11:10:55.503+0000	4570 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 08:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T11:20:57.979+0000	connected to: mongodb://localhost:27017/
+2021-10-13T11:20:58.149+0000	4529 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 08:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 08:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T11:40:55.966+0000	connected to: mongodb://localhost:27017/
+2021-10-13T11:40:56.132+0000	4628 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 08:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 09:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T12:00:59.948+0000	connected to: mongodb://localhost:27017/
+2021-10-13T12:01:00.108+0000	4572 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 09:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T12:10:59.055+0000	connected to: mongodb://localhost:27017/
+2021-10-13T12:10:59.214+0000	4656 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 09:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T12:20:58.615+0000	connected to: mongodb://localhost:27017/
+2021-10-13T12:20:58.925+0000	4619 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 09:30:02 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 09:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T12:41:02.014+0000	connected to: mongodb://localhost:27017/
+2021-10-13T12:41:02.217+0000	4528 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 09:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 10:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T13:01:02.143+0000	connected to: mongodb://localhost:27017/
+2021-10-13T13:01:02.375+0000	4349 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 10:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T13:11:00.116+0000	connected to: mongodb://localhost:27017/
+2021-10-13T13:11:00.277+0000	4553 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 10:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T13:20:59.069+0000	connected to: mongodb://localhost:27017/
+2021-10-13T13:20:59.301+0000	4288 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 10:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 10:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T13:40:59.532+0000	connected to: mongodb://localhost:27017/
+2021-10-13T13:40:59.746+0000	4224 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 10:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 11:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T14:01:02.190+0000	connected to: mongodb://localhost:27017/
+2021-10-13T14:01:02.445+0000	4426 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 11:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T14:10:58.346+0000	connected to: mongodb://localhost:27017/
+2021-10-13T14:10:58.497+0000	4395 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 11:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T14:20:59.632+0000	connected to: mongodb://localhost:27017/
+2021-10-13T14:20:59.847+0000	4322 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 11:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 11:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T14:40:59.333+0000	connected to: mongodb://localhost:27017/
+2021-10-13T14:40:59.492+0000	4244 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 11:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 12:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T15:01:00.040+0000	connected to: mongodb://localhost:27017/
+2021-10-13T15:01:00.201+0000	4179 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 12:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T15:11:00.730+0000	connected to: mongodb://localhost:27017/
+2021-10-13T15:11:00.924+0000	4189 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 12:20:02 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T15:21:00.717+0000	connected to: mongodb://localhost:27017/
+2021-10-13T15:21:00.946+0000	4201 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 12:30:02 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 12:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T15:41:02.077+0000	connected to: mongodb://localhost:27017/
+2021-10-13T15:41:02.277+0000	4142 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 12:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 13:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T16:01:01.978+0000	connected to: mongodb://localhost:27017/
+2021-10-13T16:01:02.158+0000	3987 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 13:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T16:11:03.155+0000	connected to: mongodb://localhost:27017/
+2021-10-13T16:11:03.363+0000	3986 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 13:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T16:21:02.324+0000	connected to: mongodb://localhost:27017/
+2021-10-13T16:21:02.453+0000	3964 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 13:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 13:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T16:41:04.469+0000	connected to: mongodb://localhost:27017/
+2021-10-13T16:41:04.639+0000	3903 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 13:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 14:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T17:01:05.335+0000	connected to: mongodb://localhost:27017/
+2021-10-13T17:01:05.495+0000	4128 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 14:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T17:11:00.878+0000	connected to: mongodb://localhost:27017/
+2021-10-13T17:11:01.018+0000	4183 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 14:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T17:21:01.035+0000	connected to: mongodb://localhost:27017/
+2021-10-13T17:21:01.186+0000	4244 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 14:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 14:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T17:41:02.213+0000	connected to: mongodb://localhost:27017/
+2021-10-13T17:41:02.432+0000	4393 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 14:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 15:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T18:01:03.429+0000	connected to: mongodb://localhost:27017/
+2021-10-13T18:01:03.687+0000	4459 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 15:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T18:11:03.950+0000	connected to: mongodb://localhost:27017/
+2021-10-13T18:11:04.103+0000	4552 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 15:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T18:21:03.715+0000	connected to: mongodb://localhost:27017/
+2021-10-13T18:21:03.901+0000	4659 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 15:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 15:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T18:41:02.952+0000	connected to: mongodb://localhost:27017/
+2021-10-13T18:41:03.156+0000	4722 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 15:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 16:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T19:01:04.727+0000	connected to: mongodb://localhost:27017/
+2021-10-13T19:01:04.925+0000	4799 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 16:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T19:11:01.585+0000	connected to: mongodb://localhost:27017/
+2021-10-13T19:11:01.756+0000	4845 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 16:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T19:21:02.963+0000	connected to: mongodb://localhost:27017/
+2021-10-13T19:21:03.156+0000	4864 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 16:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 16:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T19:41:02.864+0000	connected to: mongodb://localhost:27017/
+2021-10-13T19:41:03.038+0000	4940 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 16:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 17:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T20:00:58.214+0000	connected to: mongodb://localhost:27017/
+2021-10-13T20:00:58.456+0000	4621 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 17:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T20:10:58.938+0000	connected to: mongodb://localhost:27017/
+2021-10-13T20:10:59.083+0000	4485 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 17:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T20:20:57.394+0000	connected to: mongodb://localhost:27017/
+2021-10-13T20:20:57.547+0000	4624 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 17:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 17:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T20:41:03.420+0000	connected to: mongodb://localhost:27017/
+2021-10-13T20:41:03.610+0000	4685 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 17:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 18:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T21:01:03.907+0000	connected to: mongodb://localhost:27017/
+2021-10-13T21:01:04.093+0000	5168 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 18:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T21:10:59.354+0000	connected to: mongodb://localhost:27017/
+2021-10-13T21:10:59.537+0000	4944 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 18:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T21:20:58.485+0000	connected to: mongodb://localhost:27017/
+2021-10-13T21:20:58.667+0000	5458 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 18:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 18:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T21:40:57.985+0000	connected to: mongodb://localhost:27017/
+2021-10-13T21:40:58.202+0000	5456 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 18:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 19:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T22:00:59.358+0000	connected to: mongodb://localhost:27017/
+2021-10-13T22:00:59.609+0000	5879 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 19:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T22:10:57.754+0000	connected to: mongodb://localhost:27017/
+2021-10-13T22:10:58.054+0000	5636 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 19:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T22:20:58.566+0000	connected to: mongodb://localhost:27017/
+2021-10-13T22:20:58.754+0000	5943 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 19:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 19:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T22:40:57.781+0000	connected to: mongodb://localhost:27017/
+2021-10-13T22:40:57.982+0000	5997 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 19:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 20:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T23:00:57.176+0000	connected to: mongodb://localhost:27017/
+2021-10-13T23:00:57.539+0000	6007 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 20:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T23:10:57.456+0000	connected to: mongodb://localhost:27017/
+2021-10-13T23:10:57.640+0000	6067 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 20:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T23:20:56.597+0000	connected to: mongodb://localhost:27017/
+2021-10-13T23:20:56.776+0000	6049 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 20:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 20:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-13T23:40:57.852+0000	connected to: mongodb://localhost:27017/
+2021-10-13T23:40:58.053+0000	5926 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 20:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 21:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T00:00:54.894+0000	connected to: mongodb://localhost:27017/
+2021-10-14T00:00:55.084+0000	5904 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 21:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T00:10:53.959+0000	connected to: mongodb://localhost:27017/
+2021-10-14T00:10:54.137+0000	5919 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 21:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T00:20:56.021+0000	connected to: mongodb://localhost:27017/
+2021-10-14T00:20:56.217+0000	6002 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 21:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 21:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T00:40:59.316+0000	connected to: mongodb://localhost:27017/
+2021-10-14T00:40:59.509+0000	5893 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 21:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 22:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T01:00:55.021+0000	connected to: mongodb://localhost:27017/
+2021-10-14T01:00:55.230+0000	5822 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 22:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T01:10:55.486+0000	connected to: mongodb://localhost:27017/
+2021-10-14T01:10:55.679+0000	5892 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 22:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T01:20:56.375+0000	connected to: mongodb://localhost:27017/
+2021-10-14T01:20:56.552+0000	5893 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 22:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 22:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T01:40:57.857+0000	connected to: mongodb://localhost:27017/
+2021-10-14T01:40:58.098+0000	5953 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 22:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 23:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T02:00:57.256+0000	connected to: mongodb://localhost:27017/
+2021-10-14T02:00:57.476+0000	5985 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 23:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T02:10:56.125+0000	connected to: mongodb://localhost:27017/
+2021-10-14T02:10:56.311+0000	5964 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 23:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T02:20:53.929+0000	connected to: mongodb://localhost:27017/
+2021-10-14T02:20:54.101+0000	5951 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 23:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Wed Oct 13 23:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T02:40:57.675+0000	connected to: mongodb://localhost:27017/
+2021-10-14T02:40:57.867+0000	5962 document(s) imported successfully. 0 document(s) failed to import.
+2021-10-14T02:40:58.029+0000	connected to: mongodb://localhost:27017/
+2021-10-14T02:40:58.212+0000	5962 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Wed Oct 13 23:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 00:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T03:00:57.726+0000	connected to: mongodb://localhost:27017/
+2021-10-14T03:00:57.922+0000	5856 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 00:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T03:10:55.449+0000	connected to: mongodb://localhost:27017/
+2021-10-14T03:10:55.633+0000	5810 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 00:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T03:20:55.174+0000	connected to: mongodb://localhost:27017/
+2021-10-14T03:20:55.358+0000	5865 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 00:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 00:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T03:40:56.589+0000	connected to: mongodb://localhost:27017/
+2021-10-14T03:40:56.805+0000	5468 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 00:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 01:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T04:00:54.732+0000	connected to: mongodb://localhost:27017/
+2021-10-14T04:00:54.899+0000	5207 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 01:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T04:10:53.643+0000	connected to: mongodb://localhost:27017/
+2021-10-14T04:10:53.796+0000	4427 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 01:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T04:20:56.385+0000	connected to: mongodb://localhost:27017/
+2021-10-14T04:20:56.559+0000	5092 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 01:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 01:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T04:40:56.068+0000	connected to: mongodb://localhost:27017/
+2021-10-14T04:40:56.278+0000	5003 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 01:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 02:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T05:00:56.920+0000	connected to: mongodb://localhost:27017/
+2021-10-14T05:00:57.239+0000	5385 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 02:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T05:10:56.976+0000	connected to: mongodb://localhost:27017/
+2021-10-14T05:10:57.156+0000	5042 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 02:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T05:20:53.534+0000	connected to: mongodb://localhost:27017/
+2021-10-14T05:20:53.675+0000	4895 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 02:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 02:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T05:40:53.486+0000	connected to: mongodb://localhost:27017/
+2021-10-14T05:40:53.643+0000	4743 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 02:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 03:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T06:00:58.547+0000	connected to: mongodb://localhost:27017/
+2021-10-14T06:00:58.714+0000	4801 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 03:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T06:10:53.671+0000	connected to: mongodb://localhost:27017/
+2021-10-14T06:10:53.814+0000	4793 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 03:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T06:20:54.802+0000	connected to: mongodb://localhost:27017/
+2021-10-14T06:20:54.941+0000	4779 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 03:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 03:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T06:40:53.968+0000	connected to: mongodb://localhost:27017/
+2021-10-14T06:40:54.127+0000	4360 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 03:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 04:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T07:00:57.095+0000	connected to: mongodb://localhost:27017/
+2021-10-14T07:00:57.273+0000	4720 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 04:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T07:10:53.963+0000	connected to: mongodb://localhost:27017/
+2021-10-14T07:10:54.103+0000	4514 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 04:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T07:20:55.659+0000	connected to: mongodb://localhost:27017/
+2021-10-14T07:20:55.798+0000	4481 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 04:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 04:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T07:40:57.716+0000	connected to: mongodb://localhost:27017/
+2021-10-14T07:40:57.897+0000	4682 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 04:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 05:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T08:00:47.971+0000	connected to: mongodb://localhost:27017/
+2021-10-14T08:00:48.129+0000	4749 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 05:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T08:10:50.855+0000	connected to: mongodb://localhost:27017/
+2021-10-14T08:10:51.013+0000	4606 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 05:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T08:20:51.762+0000	connected to: mongodb://localhost:27017/
+2021-10-14T08:20:51.902+0000	4801 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 05:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 05:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T08:40:53.272+0000	connected to: mongodb://localhost:27017/
+2021-10-14T08:40:53.441+0000	4872 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 05:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 06:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T09:00:54.698+0000	connected to: mongodb://localhost:27017/
+2021-10-14T09:00:54.867+0000	4762 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 06:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T09:10:55.849+0000	connected to: mongodb://localhost:27017/
+2021-10-14T09:10:55.981+0000	4180 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 06:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T09:20:53.118+0000	connected to: mongodb://localhost:27017/
+2021-10-14T09:20:53.280+0000	4601 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 06:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 06:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T09:40:54.572+0000	connected to: mongodb://localhost:27017/
+2021-10-14T09:40:54.731+0000	4579 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 06:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 07:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T10:00:54.615+0000	connected to: mongodb://localhost:27017/
+2021-10-14T10:00:54.753+0000	4343 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 07:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T10:10:55.095+0000	connected to: mongodb://localhost:27017/
+2021-10-14T10:10:55.245+0000	4558 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 07:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T10:20:53.227+0000	connected to: mongodb://localhost:27017/
+2021-10-14T10:20:53.361+0000	4524 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 07:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 07:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T10:40:57.784+0000	connected to: mongodb://localhost:27017/
+2021-10-14T10:40:57.943+0000	4348 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 07:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 08:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T11:00:56.482+0000	connected to: mongodb://localhost:27017/
+2021-10-14T11:00:56.654+0000	4376 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 08:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T11:10:58.238+0000	connected to: mongodb://localhost:27017/
+2021-10-14T11:10:58.396+0000	4254 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 08:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T11:20:55.747+0000	connected to: mongodb://localhost:27017/
+2021-10-14T11:20:55.876+0000	4114 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 08:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 08:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T11:40:58.029+0000	connected to: mongodb://localhost:27017/
+2021-10-14T11:40:58.163+0000	3971 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 08:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 09:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T12:01:02.221+0000	connected to: mongodb://localhost:27017/
+2021-10-14T12:01:02.378+0000	3728 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 09:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T12:10:57.842+0000	connected to: mongodb://localhost:27017/
+2021-10-14T12:10:57.977+0000	3572 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 09:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T12:20:59.977+0000	connected to: mongodb://localhost:27017/
+2021-10-14T12:21:00.093+0000	3509 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 09:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 09:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T12:41:01.886+0000	connected to: mongodb://localhost:27017/
+2021-10-14T12:41:02.063+0000	4570 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 09:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 10:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T13:00:59.555+0000	connected to: mongodb://localhost:27017/
+2021-10-14T13:00:59.722+0000	4818 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 10:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T13:11:00.233+0000	connected to: mongodb://localhost:27017/
+2021-10-14T13:11:00.346+0000	3581 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 10:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T13:20:58.626+0000	connected to: mongodb://localhost:27017/
+2021-10-14T13:20:58.737+0000	3628 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 10:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 10:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T13:41:12.757+0000	connected to: mongodb://localhost:27017/
+2021-10-14T13:41:12.883+0000	3672 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 10:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 11:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T14:01:27.987+0000	connected to: mongodb://localhost:27017/
+2021-10-14T14:01:28.158+0000	4508 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 11:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T14:11:24.612+0000	connected to: mongodb://localhost:27017/
+2021-10-14T14:11:24.747+0000	3624 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 11:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T14:21:24.344+0000	connected to: mongodb://localhost:27017/
+2021-10-14T14:21:24.464+0000	3640 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 11:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 11:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T14:41:25.669+0000	connected to: mongodb://localhost:27017/
+2021-10-14T14:41:25.841+0000	4815 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 11:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 12:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T15:01:18.083+0000	connected to: mongodb://localhost:27017/
+2021-10-14T15:01:18.693+0000	4778 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 12:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T15:11:13.463+0000	connected to: mongodb://localhost:27017/
+2021-10-14T15:11:13.612+0000	3618 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 12:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T15:21:11.873+0000	connected to: mongodb://localhost:27017/
+2021-10-14T15:21:12.125+0000	5299 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 12:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 12:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T15:41:05.494+0000	connected to: mongodb://localhost:27017/
+2021-10-14T15:41:05.748+0000	5579 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 12:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 13:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T16:01:07.572+0000	connected to: mongodb://localhost:27017/
+2021-10-14T16:01:07.758+0000	5230 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 13:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T16:11:00.573+0000	connected to: mongodb://localhost:27017/
+2021-10-14T16:11:00.769+0000	5746 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 13:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T16:21:00.853+0000	connected to: mongodb://localhost:27017/
+2021-10-14T16:21:01.036+0000	5195 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 13:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 13:40:03 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T16:41:09.832+0000	connected to: mongodb://localhost:27017/
+2021-10-14T16:41:10.120+0000	4696 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 13:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Thu Oct 14 14:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T17:00:56.311+0000	connected to: mongodb://localhost:27017/
+2021-10-14T17:00:56.485+0000	4854 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 14:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-14T17:10:53.422+0000	connected to: mongodb://localhost:27017/
+2021-10-14T17:10:53.604+0000	4880 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Thu Oct 14 14:20:01 -03 2021
++ sh /root/docker/coleta.sh
