@@ -17148,3 +17148,90 @@ Error: No such container: devops_anaconda
 + sh /root/docker/carga.sh
 Error: No such container: devops_anaconda
 /bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:00:01 -03 2021
++ sh /root/docker/coleta.sh
+Error: No such container: devops_anaconda
++ sh /root/docker/carga.sh
+Error: No such container: devops_anaconda
+/bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:10:01 -03 2021
++ sh /root/docker/coleta.sh
+Error: No such container: devops_anaconda
++ sh /root/docker/carga.sh
+Error: No such container: devops_anaconda
+/bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:20:01 -03 2021
++ sh /root/docker/coleta.sh
+Error: No such container: devops_anaconda
++ sh /root/docker/carga.sh
+Error: No such container: devops_anaconda
+/bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:30:01 -03 2021
++ sh /root/docker/coleta.sh
+Error: No such container: devops_anaconda
++ sh /root/docker/carga.sh
+Error: No such container: devops_anaconda
+/bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:40:01 -03 2021
++ sh /root/docker/coleta.sh
+Error: No such container: devops_anaconda
++ sh /root/docker/carga.sh
+Error: No such container: devops_anaconda
+/bin/sh: 0: Can't open /root/docker/anaconda/python/importar_registros_nosql.sh
++ date
++ echo rodou Sun Oct 17 22:50:01 -03 2021
++ sh /root/docker/coleta.sh
+Traceback (most recent call last):
+  File "/home/python/twitter_coleta.py", line 6, in <module>
+    from TwitterSearch import *
+ModuleNotFoundError: No module named 'TwitterSearch'
++ sh /root/docker/carga.sh
++ date
++ echo rodou Sun Oct 17 23:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T02:01:26.381+0000	connected to: mongodb://localhost:27017/
+2021-10-18T02:01:26.531+0000	4692 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct 17 23:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T02:14:03.106+0000	connected to: mongodb://localhost:27017/
+2021-10-18T02:14:03.323+0000	4827 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct 17 23:20:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T02:20:52.074+0000	connected to: mongodb://localhost:27017/
+2021-10-18T02:20:52.243+0000	4768 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct 17 23:30:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Sun Oct 17 23:40:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T02:42:12.465+0000	connected to: mongodb://localhost:27017/
+2021-10-18T02:42:12.645+0000	4924 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Sun Oct 17 23:50:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
++ date
++ echo rodou Mon Oct 18 00:00:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T03:00:59.492+0000	connected to: mongodb://localhost:27017/
+2021-10-18T03:00:59.646+0000	4672 document(s) imported successfully. 0 document(s) failed to import.
++ date
++ echo rodou Mon Oct 18 00:10:01 -03 2021
++ sh /root/docker/coleta.sh
++ sh /root/docker/carga.sh
+2021-10-18T03:10:56.965+0000	connected to: mongodb://localhost:27017/
+2021-10-18T03:10:57.140+0000	4912 document(s) imported successfully. 0 document(s) failed to import.

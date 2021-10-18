@@ -3181,3 +3181,26 @@
 + /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
 + /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
 Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Error: No such container: devops_anaconda
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
+Traceback (most recent call last):
+  File "/home/python/twitter_coleta.py", line 6, in <module>
+    from TwitterSearch import *
+ModuleNotFoundError: No module named 'TwitterSearch'
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_coleta.py
