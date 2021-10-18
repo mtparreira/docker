@@ -12,7 +12,7 @@ docker exec -it devops_anaconda pip install TwitterSearch
 docker exec -it devops_anaconda pip install contractions==0.0.18
 docker exec -it devops_anaconda pip install inflect
 docker exec -it devops_anaconda pip install nltk
-docker exec -it devops_anaconda pip install emojis
+#docker exec -it devops_anaconda pip install emojis
 
 # Aguardando carga de serviço notebook
 echo "\e[01;33mCarregando serviço notebook\e[00m"
