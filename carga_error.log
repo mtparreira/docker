@@ -13192,3 +13192,255 @@ Error: No such container: devops_anaconda
 + /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
 + /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
 + /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
+2021-10-19T15:20:02.717+0000	connected to: mongodb://localhost:27017/
+2021-10-19T15:20:03.202+0000	5388 document(s) imported successfully. 0 document(s) failed to import.
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
+2021-10-19T15:50:02.873+0000	connected to: mongodb://localhost:27017/
+2021-10-19T15:50:03.221+0000	4401 document(s) imported successfully. 0 document(s) failed to import.
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/*.sh
++ /usr/bin/docker exec devops_anaconda /bin/bash -c python /home/python/twitter_carga.py
++ /bin/sh /root/docker/anaconda/python/importar_registros_nosql.sh
++ /bin/rm -rf /root/docker/anaconda/python/importar_registros_nosql.sh
