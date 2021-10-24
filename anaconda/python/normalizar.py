@@ -11,7 +11,6 @@ from nltk        import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem   import LancasterStemmer, WordNetLemmatizer
 
-import pandas as pd
 from pymongo import MongoClient
 
 def remove_nao_ascii(palavras):
