@@ -15,7 +15,7 @@ if len(vg_arquivos) > 0:
             v_comando =  '\n# '+v_arquivo+'\n'
             v_comando += '/usr/bin/docker exec devops_mongo /bin/bash -c'
             v_comando += ' "mongoimport --host localhost --port 27017 --username usrtcc --password usrtcc'
-            v_comando += ' --db tcc --collection twitters'
+            v_comando += ' --db tcc --collection twitter'
             v_comando += ' --type json --jsonArray --file /home/coleta/'+v_arquivo+ '"\n'
             v_comando += '/usr/bin/mv '+vg_dir_servidor+'coleta/'+v_arquivo+' '+vg_dir_servidor+'carga/'+v_arquivo+'\n'
         vg_comandos.append(v_comando)

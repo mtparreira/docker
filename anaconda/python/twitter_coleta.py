@@ -17,8 +17,6 @@ vg_hora       = int(datetime.today().strftime('%M'))
 vg_arquivo    = datetime.today().strftime('%Y%m%d%H%M%S')
 
 # Chaves de pesquisa
-#vg_pesquisas  = ['Playstation','Xbox','Electronic Arts','#EA','Windows']
-#vg_pesquisas  = ['Abandoned','Kojima']
 vg_pesquisas  = ['Playstation','Xbox','Nintendo','Blizzard', 'Activision', 'Naughty Dog', 'EA', 'Konami','Capcom', 'Nintendo Switch Online', 'Gamepass', 'EA Access', 'Playstation Now', 'CD PROJEKT RED']
 
 # Minera dados no Twitter
@@ -66,17 +64,12 @@ for v_index, v_pesquisa in enumerate(vg_pesquisas):
             v_tso.set_locale('en')
             v_tso.set_language('en')            
             v_tso.set_keywords([v_pesquisa])
-            #v_tso.add_keyword('It Takes Two')            
-            #v_tso.add_keyword('Blue Box', 'Hasan Kahraman')
-            #v_tso.add_keyword('Hasan Kahraman')
-            #v_tso.add_keyword('Nintendo Switch Online')
             v_tso.set_include_entities(False) 
             
             # Coleta
             for v_tweet in v_ts.search_tweets_iterable(v_tso):
                 v_texto = v_tweet['text']
                 v_texto = v_texto.replace('"','')
-                #v_texto = ''.join(ch for ch in unicodedata.normalize('NFKD', v_texto) if not unicodedata.combining(ch))
                 vg_registros.append([datetime.today().strftime('%Y-%m-%d')
                                     ,datetime.today().strftime('%H:%M:%S')
                                     ,vg_ini['coletor']['ip']
