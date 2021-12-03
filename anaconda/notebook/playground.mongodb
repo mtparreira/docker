@@ -1,0 +1,39 @@
+use('tcc');
+
+//db.bolsaspalavras.createIndex( { "chave": "text" } );
+//db.bolsaspalavras.createIndex( { "chave": 1, "data_coleta": 1 } );
+//db.bolsaspalavras.createIndex( { "data_coleta": 1 } );
+//db.classificacaolinear.createIndex( { "chave": "text" } );
+//db.convencao.createIndex( { "chave": "text" } );
+
+/*
+// executar para as duas coleções e as quatro empresas
+db.resultadodia.insertMany(
+   //db.convencao.aggregate(
+   db.classificacaolinear.aggregate(
+   [
+      // blizzard nintendo xbox playstation
+      { "$project": { "_id": 0, 'empresa': 'playstation', "chave": 1, "sentimento": 1 } },
+      { "$lookup":  {
+         from: "bolsaspalavras",
+         pipeline: [ { "$project": { "_id": 0, "data_coleta": 1, "frequencia": 1 } } ],
+         localField: "chave",
+         foreignField : "chave",         
+         as: "dia"
+      } },
+      { "$match":   { 
+         // blizzard nintendo xbox playstation
+         "chave":      { "$regex": 'playstation', "$options": 'i' },
+         "sentimento": { "$ne": 'neutro' },
+         "dia":        { "$ne": [] }
+      } }
+   ], { allowDiskUse : true }
+   ).toArray()
+);
+*/
+
+//db.resultadodia.aggregate({ "$group": { "_id": "$empresa", "count": { "$sum": 1 } } });
+
+//docker exec -it devops_mongo /bin/bash
+//mongodump    --username usrtcc --password usrtcc --db tcc --out  /home/coleta/bkp
+//mongorestore --username usrtcc --password usrtcc --db tcc --drop /home/coleta/bkp
